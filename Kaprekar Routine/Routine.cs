@@ -1,13 +1,13 @@
-// Global variable to define string input gathered from user
 using System.ComponentModel.DataAnnotations;
 
+// variable to define string input gathered from user
 string number = Routine.GetNum(); 
 
 // Method call to perform Kaprekar's Routine by passing string gathered from user
 Routine.Calculate(number); 
 
 // Parent class for program to perform Kaprekar's Routine
-static class Routine {
+class Routine {
 
     // Method to get number from user
     public static string GetNum() {
@@ -19,7 +19,7 @@ static class Routine {
         while (!validNum){
             
             //Ask user for a valid number
-            Console.Write("Enter a 4-digit number with at least two different integers (Example '3433'): ");
+            Console.Write("Enter a 4-digit number with at least two different digits (Example: '3433'): ");
             string? number = Console.ReadLine();
 
             //Check if number is valid with if-else statement
@@ -28,7 +28,7 @@ static class Routine {
                 userNum = number!;
             }
             else {
-                Console.WriteLine("Invalid number! Must be a 4-digit number with at least two different integers.");
+                Console.WriteLine("Invalid number! Must be a 4-digit number with at least two different digits (Example: '3433'): ");
                 Console.WriteLine("\n");
             }
         }
@@ -84,8 +84,9 @@ static class Routine {
         }
     }
 
+    //Method that will display the steps within Kaprekar's Routine
     public static void Display(string desc, string asc, int diff){
         Console.WriteLine(desc + " - " + asc + " = " + diff);
-        Console.WriteLine("\n");
+        //Console.WriteLine("\n");
     }
 }

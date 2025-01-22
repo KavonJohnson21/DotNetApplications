@@ -12,3 +12,4 @@ c:\Users\Kavon.Johnson\Dev2\DotNetApplications\Kaprekar Routine\obj\Debug\net8.0
 c:\Users\Kavon.Johnson\Dev2\DotNetApplications\Kaprekar Routine\obj\Debug\net8.0\Kaprekar.pdb
 c:\Users\Kavon.Johnson\Dev2\DotNetApplications\Kaprekar Routine\obj\Debug\net8.0\Kaprekar.genruntimeconfig.cache
 c:\Users\Kavon.Johnson\Dev2\DotNetApplications\Kaprekar Routine\obj\Debug\net8.0\ref\Kaprekar.dll
+c:\Users\Kavon.Johnson\Dev2\DotNetApplications\Kaprekar Routine\obj\Debug\net8.0\Kaprekar.sourcelink.json
