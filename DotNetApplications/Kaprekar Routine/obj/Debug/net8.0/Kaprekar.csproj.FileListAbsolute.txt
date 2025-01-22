@@ -1,0 +1,14 @@
+c:\Users\Kavon.Johnson\Dev2\DotNetApplications\Kaprekar Routine\bin\Debug\net8.0\Kaprekar.exe
+c:\Users\Kavon.Johnson\Dev2\DotNetApplications\Kaprekar Routine\bin\Debug\net8.0\Kaprekar.deps.json
+c:\Users\Kavon.Johnson\Dev2\DotNetApplications\Kaprekar Routine\bin\Debug\net8.0\Kaprekar.runtimeconfig.json
+c:\Users\Kavon.Johnson\Dev2\DotNetApplications\Kaprekar Routine\bin\Debug\net8.0\Kaprekar.dll
+c:\Users\Kavon.Johnson\Dev2\DotNetApplications\Kaprekar Routine\bin\Debug\net8.0\Kaprekar.pdb
+c:\Users\Kavon.Johnson\Dev2\DotNetApplications\Kaprekar Routine\obj\Debug\net8.0\Kaprekar.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Kavon.Johnson\Dev2\DotNetApplications\Kaprekar Routine\obj\Debug\net8.0\Kaprekar.AssemblyInfoInputs.cache
+c:\Users\Kavon.Johnson\Dev2\DotNetApplications\Kaprekar Routine\obj\Debug\net8.0\Kaprekar.AssemblyInfo.cs
+c:\Users\Kavon.Johnson\Dev2\DotNetApplications\Kaprekar Routine\obj\Debug\net8.0\Kaprekar.csproj.CoreCompileInputs.cache
+c:\Users\Kavon.Johnson\Dev2\DotNetApplications\Kaprekar Routine\obj\Debug\net8.0\Kaprekar.dll
+c:\Users\Kavon.Johnson\Dev2\DotNetApplications\Kaprekar Routine\obj\Debug\net8.0\refint\Kaprekar.dll
+c:\Users\Kavon.Johnson\Dev2\DotNetApplications\Kaprekar Routine\obj\Debug\net8.0\Kaprekar.pdb
+c:\Users\Kavon.Johnson\Dev2\DotNetApplications\Kaprekar Routine\obj\Debug\net8.0\Kaprekar.genruntimeconfig.cache
+c:\Users\Kavon.Johnson\Dev2\DotNetApplications\Kaprekar Routine\obj\Debug\net8.0\ref\Kaprekar.dll
